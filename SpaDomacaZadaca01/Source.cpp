@@ -5,6 +5,7 @@ int main()
 	sf::RenderWindow window(sf::VideoMode(800, 600), "Hello, SFML world!");
 	window.setFramerateLimit(60);
 	//Cvijet cvijet(&window);
+    // Dlower flower(&wondow)
 
 	while (window.isOpen())
 	{
